@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+sudo apt-get update
 
 # install zsh
 sudo apt-get install zsh -y
